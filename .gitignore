@@ -22,4 +22,4 @@ project/plugins/project/
 data
 .bsp
 
-src/test/resources/files/output
+output
